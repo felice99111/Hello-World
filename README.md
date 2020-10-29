@@ -10,4 +10,4 @@ Für die Anwendung benötigen Sie einen beliebigen Browser.
 
 ## Installationsvorgang
 
-Laden sie den master-branch des Repository herunter. Um die Anwendung zu starten, öffnen sie die Datei **index** in einem Browser.
+Laden Sie den master-branch des Repository herunter. Um die Anwendung zu starten, öffnen sie die Datei **index.html** in einem Browser.
